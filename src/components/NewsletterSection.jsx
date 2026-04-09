@@ -236,7 +236,6 @@ const NewsletterSection = () => {
                 variant="h5"
                 sx={{
                   fontWeight: 800,
-                  color: 'white',
                   textShadow: '0 2px 8px rgba(0,0,0,0.5)',
                   letterSpacing: '1px',
                   background: 'linear-gradient(45deg, #fff, #aaa)',

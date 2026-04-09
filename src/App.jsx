@@ -5,17 +5,17 @@ import { useRecipes } from './context/RecipeContext';
 
 // Import your components
 import Navbar from './components/layout/Navbar';
-import HomePage from './Components/HomePage';
-import PopularRecipes from './Components/PopularRecipes';
-import RecipeCarousel from './Components/RecipeCarousel';
+import HomePage from './components/HomePage';
+import PopularRecipes from './components/PopularRecipes';
+import RecipeCarousel from './components/RecipeCarousel';
 import RecipeList from './components/recipes/RecipeList';
-import NewsletterSection from './Components/NewsletterSection';
-import Login from './Components/Login';
-import Signup from './Components/Signup';
-import ForgotPassword from './Components/ForgotPassword';
-import Profile from './Components/Profile';
-import About from './Components/About';
-import Contact from './Components/Contact';
+import NewsletterSection from './components/NewsletterSection';
+import Login from './components/Login';
+import Signup from './components/Signup';
+import ForgotPassword from './components/ForgotPassword';
+import Profile from './components/Profile';
+import About from './components/About';
+import Contact from './components/Contact';
 import NetworkNotifier from './components/common/NetworkNotifier';
 
 import { Box, CircularProgress } from '@mui/material';
